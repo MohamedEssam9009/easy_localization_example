@@ -1,0 +1,12 @@
+{
+    "Authentication": {
+        "name": "الاسم",
+        "Login": "تسجيل الدخول",
+        "email": "البريد الالكتروني",
+        "Password": "كلمة المرور",
+        "RememberMe": "تذكرني",
+        "ForgotPassword": "نسيت كلمة المرور",
+        "Register": "تسجيل"
+    },
+    "home_page": "الرئيسية"
+}

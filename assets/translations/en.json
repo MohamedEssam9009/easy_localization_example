@@ -1,0 +1,12 @@
+{
+    "Authentication": {
+        "name": "Name",
+        "Login": "Login",
+        "email": "Email",
+        "Password": "Password",
+        "RememberMe": "RememberMe",
+        "ForgotPassword": "ForgotPassword",
+        "Register": "Register"
+    },
+    "home_page": "Home"
+}
